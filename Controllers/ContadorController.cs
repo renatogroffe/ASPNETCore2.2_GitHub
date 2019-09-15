@@ -34,7 +34,7 @@ namespace APIContagem.Controllers
                     _CONTADOR.ValorAtual,
                     Environment.MachineName,
                     Sistema = Environment.OSVersion.VersionString,
-                    Local =  "Notebook Renato...",
+                    Local =  "Repositório GitHub",
                     TargetFramework = _FRAMEWORK
                 };
             }
