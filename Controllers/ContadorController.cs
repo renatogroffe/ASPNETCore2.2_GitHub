@@ -35,7 +35,7 @@ namespace APIContagem.Controllers
                     Environment.MachineName,
                     Sistema = Environment.OSVersion.VersionString,
                     Hospedagem = "Azure App Service", // Alteração para testar o deployment automatizado
-                    Local =  "Repositório GitHub",
+                    Local =  "Treinamento Azure na Prática",
                     TargetFramework = _FRAMEWORK
                 };
             }
